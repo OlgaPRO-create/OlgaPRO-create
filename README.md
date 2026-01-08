@@ -10,16 +10,16 @@ HTML5 |CSS3 | JavaScript | TypeScript | Vercel | Next JS | NodeJS | Vite | Figma
 
 
 💻Featured Projects  
-- [EcoTote](https://bogdan-uk.github.io/team-project/) - EcoTote - ecological bags for those who care about the future. Developed and stylized semantic HTML footer markup, adaptive layout taking into account different breakpoints, work with navigation links, social icons and forms, compliance with the project's design system.
+[EcoTote](https://bogdan-uk.github.io/team-project/) - EcoTote - ecological bags for those who care about the future. Developed and stylized semantic HTML footer markup, adaptive layout taking into account different breakpoints, work with navigation links, social icons and forms, compliance with the project's design system.
   
-- [Booksy](https://liv-o.github.io/project-team1-js/) - Booksy is a modern online bookstore website designed for easy browsing, selecting, and ordering of books. Skills acquired in the project:
+[Booksy](https://liv-o.github.io/project-team1-js/) - Booksy is a modern online bookstore website designed for easy browsing, selecting, and ordering of books. Skills acquired in the project:
 - Implementation of semantic adaptive layout (mobile / tablet / desktop);
 - Optimization of loading of static images, which positively affects the performance of the page.
 - Practical experience with the Vite bundler;
 - Team development using Git: working with branches, pull requests, conflict resolution, synchronization with the upstream repository;
 - Working with Trello for task management;
   
- -[NoteHub](https://09-auth-sepia-two.vercel.app/) - NoteHub is a simple and effective application designed to manage personal notes. Skills acquired while creating the project:
+ [NoteHub](https://09-auth-sepia-two.vercel.app/) - NoteHub is a simple and effective application designed to manage personal notes. Skills acquired while creating the project:
 - Development of component interfaces on React.js using hooks;
 - Building applications on Next.js (routing, layouts, SSR/SSG);
 - Integration with REST API, handling loading / error states;
